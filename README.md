@@ -159,10 +159,7 @@ phishsentry-ai/
 
 
 
-## Authors & Contributors
-Built with by:
-
-- Garbhit (garbhitsh) – Detection logic, integration, and infra
+![HLD](https://github.com/GarbhitSh/PhishSentry-AI/blob/main/xdm.png)
 
 
 ---
